@@ -31,6 +31,3 @@ Aggregated data provides a snapshot of the overall customer base, including aver
 <img width="703" height="431" alt="image" src="https://github.com/user-attachments/assets/0d51af50-d6e1-47ac-8e30-6c2d9db6351d" />
 
 
-
----
-*Maintained by [Your Name/Organization]*
